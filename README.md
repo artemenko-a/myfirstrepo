@@ -1,5 +1,5 @@
 # myfirstrepo
 перший репозиторій 
-teat
+teSt
 ### Про себе
 - [Хоббі](hobby.md)
